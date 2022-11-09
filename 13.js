@@ -205,4 +205,4 @@ Mostre o array filtrado acima no console.
 */
 console.log( '\nEstados com ID par:' );
 console.log(filter)
-}());
+})();
